@@ -41,5 +41,5 @@
         margin: auto;
     }
     body{
-        background-image:linear-gradient(to bottom, rgb(0, 153, 255), rgba(0, 128, 0, 0.486));
+        background-image:linear-gradient(to left, rgb(0, 153, 255), rgba(0, 128, 0, 0.486));
     }
