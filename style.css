@@ -8,12 +8,14 @@
     }
     nav{
         background-image: linear-gradient(to right, #000000af, #00000063);
+        padding-bottom: 5px;
        
     }
     a{
         color: white;
         font-size: 20px;
         padding-right: 30px;
+        padding-bottom: 5px;
         text-decoration: none;
     }
     a:hover{
