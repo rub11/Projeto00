@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .h1 {
@@ -56,4 +57,22 @@ body {
 
 .h-2 {
     background-color: rgba(144, 88, 200, 0.827);
+    text-align: center;
+
+}
+
+p {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 1.32em;
+}
+
+.yillyane {
+    align-content: center;
+    display: flex;
+    margin: auto;
+}
+
+.img1{
+    margin: auto;
 }
